@@ -17,7 +17,9 @@ import StyledIcon from "public/assets/svg/styledcomponents.svg";
 export const TECHNOLOGIES = [
 	{
 		category: "Mobile",
-		items: [{ name: "Flutter", icon: <RiFlutterFill size={32} /> }]
+		items: [{ name: "Flutter", icon: <RiFlutterFill size={32} /> },
+				{ name: "Swift", icon: <RiFlutterFill size={32} />}
+				]
 	},
 	{
 		category: "Front-end",
@@ -29,18 +31,15 @@ export const TECHNOLOGIES = [
 			{ name: "Next", icon: <TbBrandNextjs size={32} /> },
 			{ name: "Tailwind CSS", icon: <TbBrandTailwind size={32} /> },
 			{ name: "MUI", icon: <MuiIcon width={32} /> },
-			{ name: "AntD", icon: <AiOutlineAntDesign size={32} /> },
 			{ name: "Bootstrap", icon: <BsBootstrap size={32} /> },
 			{ name: "Chakra", icon: <ChakraIcon width={32} /> },
 			{ name: "styled components", icon: <StyledIcon width={32} /> },
-			{ name: "HeadlessUI", icon: <HeadlessUiIcon width={32} /> }
 		]
 	},
 	{
 		category: "UI tools",
 		items: [
 			{ name: "Figma", icon: <FaFigma size={32} /> },
-			{ name: "Zeplin", icon: <ZeplinIcon width={36} /> },
 			{ name: "XD", icon: <AdobeXDIcon width={32} /> }
 		]
 	},
@@ -49,11 +48,9 @@ export const TECHNOLOGIES = [
 		items: [
 			{ name: "WordPress CMS", icon: <FaWordpressSimple size={32} /> },
 			{ name: "Jira", icon: <JiraIcon width={32} /> },
-			{ name: "Trello", icon: <FaTrello size={32} /> },
 			{ name: "Github", icon: <AiFillGithub size={32} /> },
 			{ name: "Gitlab", icon: <AiFillGitlab size={32} /> },
-			{ name: "VsCode", icon: <DiVisualstudio size={32} /> },
-			{ name: "WebStorm", icon: <WebstormIcon width={32} /> }
+			{ name: "VsCode", icon: <DiVisualstudio size={32} /> }
 		]
 	}
 ];

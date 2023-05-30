@@ -25,29 +25,25 @@ export function AboutSection() {
 						}}
 					>
 						<p>
-							My name is Vasile. I successfully graduated Technical University of Moldova, computer
-							science faculty.
+							My name is Victor Chandra, a Sophomore Student at School of Information Systems Bina Nusantara University, Indonesia.
 						</p>
 						<p>
-							During my university years, I developed a deep passion for web programming, and I
-							consistently engaged in learning new concepts and techniques in this field.
+							During my university years, I learn and exploring my passion in web and mobile design
+							consistently engaged in creating new concepts and techniques in this field.
 						</p>
-						<p>So, officially, my programming journey began in 2017 as a WordPress developer.</p>
+						<p>So, my desiging journey began in 2020 as aUI/UX Designer.</p>
 						<p className="my-3.5">
 							I enjoy learning technologies that interest me, which is why I dedicated a significant
-							amount of time to working with WordPress.
+							amount of time to working and learning UI Design in Figma.
 						</p>
 						<p>
-							One day, I decided to try something new, and I started learning React. I was so
-							excited to see how fast I can build a website with it, and how easy it is to maintain
-							it. Consequently, I quickly learnt Next.js and I used it to build some company
-							projects working in a team with a backend dev.
+							Based on the experienced, I&lsquo;m plan to launch NasPas Studio. A local UI/UX design
+							studio for solving user&lsquo;s needs.
 						</p>
 						<p className="my-3.5">
-							In december 2023, I had an opportunity to start working as a React developer for a
-							company with the possibility of transitioning to mobile development. I was skeptical
-							about it at first, but I decided to give it a try, and I don&lsquo;t regret it. Now, I
-							thoroughly enjoy working with Flutter and Dart.
+							As the design journey grows, in 2023 I start to learn Swift, a programming language for
+							iOS. Swift and SwiftUI give me motivation to apply for WWDC23 SwiftStudentChallenge. 
+							Well this year still not accepted, but WWDC24 will be the year I got accepted.
 						</p>
 					</div>
 				</div>
